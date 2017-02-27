@@ -1,0 +1,85 @@
+/* Empty. Add your own CSS if you like */
+
+.login {
+  background: url(../img/login.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+.center-bottom{
+   position: absolute;
+   text-align:center;
+   bottom: 7%;
+   width: 100%;
+}
+
+.center{
+   position: absolute;
+   text-align:center;
+   width: 100%;
+   bottom: 30%;
+ }
+
+.cat-center{
+  position: absolute;
+  text-align:center;
+}
+
+.cat-button{
+
+  background-color:#ffffff;
+  padding: 35px 30px;
+  font: 10px sans-serif;
+  text-decoration: none;
+  border:1px solid #c5c5c5;
+  color: #0000ff
+
+}
+
+
+.backbutton{
+
+  background-color:#0747af;
+  padding: 35px 30px;
+  font: 10px sans-serif;
+  text-decoration: none;
+  border:0px solid #c5c5c5;
+  color: #fff
+}.title{color: #fff;}
+
+
+.bar.bar-blue {
+  border-color:  #0747af;
+  background-color: #0747af;
+  background-image: linear-gradient(0deg, #0747af,  #0747af 50%, transparent 50%);
+  color: #fff; }.title{color: #fff;}
+
+.bar.header-bar-blue {
+  border-color:  #0747af;
+  background-color: #0747af;
+  background-image: linear-gradient(0deg, #0747af,  #0747af 50%, transparent 50%);
+  color: #fff; }.title{color: #fff;}
+
+.button-large-blue {
+  background-color: #0747af;
+  padding: 16px 110px;
+  font: 10px sans-serif;
+  text-decoration: none;
+  border:0px solid #ffffff;
+  color: #f6f6fb
+}
+
+
+
+.button-blue {
+  background-color: #0747af;
+  padding: 5px 30px;
+  font: 10px sans-serif;
+  text-decoration: none;
+  border:0px solid #ffffff;
+  color: #f6f6fb
+}
+
+
+
